@@ -1,0 +1,32 @@
+{
+  "heroImage": "hero-image.jpg",
+  "heroText": "Welcome to D-Mart Stock Management Provider",
+  "aboutText": "We provide comprehensive stock management solutions for D-Mart stores.",
+  "testimonials": [
+    {
+      "heroImage": "pizza final 1.jpg",
+      "quote": "Excellent service and support. Our inventory management has never been smoother.",
+      "location": "Mumbai"
+    },
+    {
+      "heroImage": "pizza final 1.jpg",
+      "quote": "Highly recommend their stock management solutions. They have significantly reduced our overhead costs.",
+      "location": "Delhi"
+    },
+    {
+      "heroImage": "pizza final 1.jpg",
+      "quote": "Efficient and reliable. Their system helped us maintain optimal stock levels at all times.",
+      "location": "Bangalore"
+    },
+    {
+      "heroImage": "pizza final 1.jpg",
+      "quote": "Their expertise in stock management is unparalleled. Our store operations have improved drastically.",
+      "location": "Hyderabad"
+    },
+    {
+      "heroImage": "pizza final 1.jpg",
+      "quote": "Professional and efficient. The team provided customized solutions that perfectly fit our needs.",
+      "location": "Chennai"
+    }
+  ]
+}
