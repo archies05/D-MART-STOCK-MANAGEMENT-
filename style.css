@@ -50,7 +50,7 @@ span {
 }
 
 .header-text {
-  font-size: 60px !important;
+  font-size: 55px !important;
   font-weight: 700;
 }
 
@@ -95,10 +95,10 @@ span {
   /* height: 80vh; */
 }
 
-#review {
+/* #review {
   background: linear-gradient(to top, #ffd7de, white) !important;
-  /* height: 80vh; */
-}
+  /* height: 80vh; 
+} */
 
 #downloadapp {
   background: linear-gradient(to bottom, #ffd7de, white);

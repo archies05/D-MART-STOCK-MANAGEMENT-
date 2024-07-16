@@ -1,32 +1,53 @@
 {
-  "heroImage": "hero-image.jpg",
-  "heroText": "Welcome to D-Mart Stock Management Provider",
+  "heroImage": "heroimagenew.jpg",
+  "heroText": {
+    "heading": "Optimize Your D-Mart Inventory Management",
+    "subheading": "Streamline operations, reduce costs, and enhance efficiency with our expert stock management solutions."
+  },
+  "enquiry": "ENQUIRE NOW",
+
+  "image1": "p.jpg",
+  "image2": "anew.jpg",
+  "image3": "e.jpg",
+  "about": {
+    "heading1": "Profitabilty",
+    "content1": "We prioritize strategies and actions that increase revenue and reduce costs,ensuring financial success.",
+    "heading2": "Accuracy",
+    "content2": "We ensure all data and processes are precise and error-free",
+    "heading3": "Efficiency",
+    "content3": "We prioritize methods and strategies that maximize productivity"
+  },
+
   "aboutText": "We provide comprehensive stock management solutions for D-Mart stores.",
+
+  "testimonialHeading": "TESTIMONIALS",
+  "testimonialsSubheading": "WHY PEOPLE LOVE US?",
   "testimonials": [
     {
-      "heroImage": "pizza final 1.jpg",
+      "heroImage": "pinkbg.jpg",
       "quote": "Excellent service and support. Our inventory management has never been smoother.",
-      "location": "Mumbai"
+      "location": "~ Mumbai"
     },
     {
-      "heroImage": "pizza final 1.jpg",
+      "heroImage": "pinkbg.jpg",
       "quote": "Highly recommend their stock management solutions. They have significantly reduced our overhead costs.",
-      "location": "Delhi"
+      "location": "~ Delhi"
     },
     {
-      "heroImage": "pizza final 1.jpg",
+      "heroImage": "pinkbg.jpg",
       "quote": "Efficient and reliable. Their system helped us maintain optimal stock levels at all times.",
-      "location": "Bangalore"
+      "location": "~ Bangalore"
     },
     {
-      "heroImage": "pizza final 1.jpg",
+      "heroImage": "pinkbg.jpg",
       "quote": "Their expertise in stock management is unparalleled. Our store operations have improved drastically.",
-      "location": "Hyderabad"
+      "location": "~ Hyderabad"
     },
     {
-      "heroImage": "pizza final 1.jpg",
+      "heroImage": "pinkbg.jpg",
       "quote": "Professional and efficient. The team provided customized solutions that perfectly fit our needs.",
-      "location": "Chennai"
+      "location": "~ Chennai"
     }
-  ]
+  ],
+  "copyrightText": "copyright 2024 "
 }
